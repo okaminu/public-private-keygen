@@ -1,2 +1,2 @@
 # public-private-keygen
-Simple private and public key generator that works only with numbers.
+Simple private and public key generator that is implemented only using mathematical operations. Works with decimal numbers, but can easily be made to work with binary. Intentionaly didn't write tests or imposed code cleanliness, since the project purpose is to prototype and exercise to have better understanding how public-private keys internaly work by only reading math behind it and coding the implementation.
